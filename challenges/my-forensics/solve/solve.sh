@@ -1,3 +1,3 @@
 #!/bin/bash
-# Solution: Just search for the flag pattern
-grep -i "picoCTF" secret.txt
+# Solution: info.gz is where the flag is. Get that file from the capture
+
